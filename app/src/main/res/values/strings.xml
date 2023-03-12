@@ -3,4 +3,5 @@
     <string name="tvInfo">Gib deine Matrikelnummer ein</string>
     <string name="tvResponse">Antwort des Servers bzw. Durchführung der Berechnung"</string>
     <string name="btnSubmit">Abschicken</string>
+    <string name="btnCalculate">Berechnen</string>
 </resources>
